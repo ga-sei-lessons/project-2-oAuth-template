@@ -7,6 +7,7 @@ Use this repo as the base for your project 2.
 * clone this repo (no forking needed)
 * run `rm -rf .git` to remove the git history
 * run `git init` to create a new git history
+* run `git add .` and `git commit -m "init commit"` to create the first commit of the repo 
 * create a new repo on github and follow the instructions to push an existing repository from the command line
 * run `npm i` to install the required packages
 * touch a `.env` file and add the following to it:
@@ -18,4 +19,6 @@ GOOGLE_SECRET=< copy from google cloud devs / previous project >
 GOOGLE_CALLBACK=http://localhost:3000/oauth2callback
 SECRET="can be any string"
 ```
-* run `nodemon` to test your app! 
+* run `nodemon` to test your app!
+
+Use this readme as your project pitch! 
