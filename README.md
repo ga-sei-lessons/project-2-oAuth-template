@@ -4,7 +4,7 @@ Use this repo as the base for your project 2.
 
 ## Getting Started
 
-* clone this repo (no forking needed)
+* clone this repo (no forking needed) and cd into the new directory
 * run `rm -rf .git` to remove the git history
 * run `git init` to create a new git history
 * run `git add .` and `git commit -m "init commit"` to create the first commit of the repo 
